@@ -1,5 +1,3 @@
-# Nutrition POC
-
 
 ## Introduction
 
