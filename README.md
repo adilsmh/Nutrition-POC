@@ -91,7 +91,7 @@ Un retroplanning devra être fait de manière détaillé avant de démarrer puis
 - Un notebook du nettoyage des données (fait)
 - Un notebook d’exploration comportant une analyse univariée, multivariée ainsi que les différentes questions de recherches associées (in progress)
 - Une note méthodologique de réutilisation de vos notebooks (environnement, packages, données, etc)
-- **Une présentation, à utiliser en support pour la soutenance, comprenant**
+- **Une présentation, à utiliser en support pour la soutenance, comprenant : **
     - La présentation de votre idée d’application.
     - Les opérations de nettoyage effectuées.
     - La description et l'analyse univariée des différentes variables importantes avec les visualisations associées.
