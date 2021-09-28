@@ -1,6 +1,5 @@
 # Nutrition POC
 
----
 
 ## Introduction
 
@@ -8,7 +7,6 @@ Vous êtes missionnés par un client pour réaliser une analyse exploratoire sur
 
 ## Ressources
 
----
 
 [](https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv)
 
@@ -18,27 +16,24 @@ Vous êtes missionnés par un client pour réaliser une analyse exploratoire sur
 
 **MetaData**
 
----
 
 # Contexte du projet
 
 ## *Manger mieux pour vivre mieux*
 
----
 
 > **Conseils healthy (nutri-score)**
 > 
 
 ### Part 1
 
----
 
 - [x]  Stockage de l'ensemble des données dans une BDD
 - [x]  Connexion à votre base via un script Python
 - [ ]  Répondre aux questions SQL en PJ
     
     
-
+    
 ## Réquetes SQL
 
 ```sql
@@ -48,7 +43,6 @@ SELECT count(*) AS 'products_count', nutriscore_grade FROM nutrition.products
 	GROUP by nutriscore_grade;
 ```
 
----
 
 ```markdown
 > Quel est le pourcentage de représentation associé?
@@ -67,7 +61,6 @@ des produits avec un nutriscore A ou B
 
 ### Part 2
 
----
 
 - [x]  Traiter le jeu de données afin de repérer des variables pertinentes pour les traitements à venir.
 - [ ]  Automatiser ces traitements pour éviter de répéter ces opérations.
@@ -80,13 +73,11 @@ des produits avec un nutriscore A ou B
 - [ ]  Élaborer une idée (juste une idée !) d’application.
 - [ ]  Identifier des arguments justifiant la faisabilité (ou non) de votre idée d'application à partir des données Open Food Facts et de vos analyses.
 
----
 
 [Tasks](https://www.notion.so/9f8dbbc153804e25923c0429429c1ab3)
 
 ## **Modalités pédagogiques**
 
----
 
 Rendus pour mardi 5/10 15h30
 
@@ -94,11 +85,9 @@ Un retroplanning devra être fait de manière détaillé avant de démarrer puis
 
 **Groupe** : Véronique, Adil, Cédric
 
----
 
 ## Livrables
 
----
 
 - Un notebook comprenant vos requêtes relatives à la Part.1 ((in progress)
 - Un notebook du nettoyage des données (fait)
@@ -113,6 +102,3 @@ Un retroplanning devra être fait de manière détaillé avant de démarrer puis
     - La synthèse des différentes conclusions sur la faisabilité de votre projet.
 - Github ou Drive condensant l'ensemble de ces livrables
 
----
-
----
