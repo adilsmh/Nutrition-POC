@@ -1,5 +1,5 @@
 
-## Introduction
+# Introduction
 
 Vous êtes missionnés par un client pour réaliser une analyse exploratoire sur les données de nutrition Open Source. En effet ce client souhaiterait développer une application utilisant ces données et souhaiterai connaitre la faisabilité et la plus-value.
 
